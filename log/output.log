@@ -1,0 +1,44 @@
+15:01:42.400 [main] INFO  c.t.s.SpringbootDemoApplication - Starting SpringbootDemoApplication on DESKTOP-9B1VRLC with PID 8144 (M:\workspace\springboot-demo\target\classes started by Fran in M:\workspace\springboot-demo)
+15:01:42.403 [main] INFO  c.t.s.SpringbootDemoApplication - The following profiles are active: dev
+15:01:43.133 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8181 (http)
+15:01:43.139 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8181"]
+15:01:43.139 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+15:01:43.139 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+15:01:43.199 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:01:43.199 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 763 ms
+15:01:43.452 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+15:01:43.580 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8181"]
+15:01:43.595 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8181 (http) with context path ''
+15:01:43.597 [main] INFO  c.t.s.SpringbootDemoApplication - Started SpringbootDemoApplication in 1.45 seconds (JVM running for 2.148)
+15:03:52.300 [main] INFO  c.t.s.SpringbootDemoApplication - Starting SpringbootDemoApplication on DESKTOP-9B1VRLC with PID 12712 (M:\workspace\springboot-demo\target\classes started by Fran in M:\workspace\springboot-demo)
+15:03:52.300 [main] INFO  c.t.s.SpringbootDemoApplication - The following profiles are active: dev
+15:03:53.019 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8181 (http)
+15:03:53.019 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8181"]
+15:03:53.019 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+15:03:53.019 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+15:03:53.081 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:03:53.081 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 749 ms
+15:03:53.331 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+15:03:53.456 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8181"]
+15:03:53.472 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8181 (http) with context path ''
+15:03:53.472 [main] INFO  c.t.s.SpringbootDemoApplication - Started SpringbootDemoApplication in 1.42 seconds (JVM running for 2.08)
+15:04:23.975 [http-nio-8181-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:04:23.975 [http-nio-8181-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+15:04:23.978 [http-nio-8181-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+15:04:24.021 [http-nio-8181-exec-1] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+15:08:22.933 [main] INFO  c.t.s.SpringbootDemoApplication - Starting SpringbootDemoApplication on DESKTOP-9B1VRLC with PID 10324 (M:\workspace\springboot-demo\target\classes started by Fran in M:\workspace\springboot-demo)
+15:08:22.933 [main] INFO  c.t.s.SpringbootDemoApplication - The following profiles are active: dev
+15:08:23.683 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8181 (http)
+15:08:23.699 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8181"]
+15:08:23.699 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+15:08:23.699 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+15:08:23.761 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:08:23.761 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 812 ms
+15:08:23.996 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+15:08:24.121 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8181"]
+15:08:24.136 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8181 (http) with context path ''
+15:08:24.136 [main] INFO  c.t.s.SpringbootDemoApplication - Started SpringbootDemoApplication in 1.466 seconds (JVM running for 2.152)
+15:08:31.605 [http-nio-8181-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:08:31.605 [http-nio-8181-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+15:08:31.609 [http-nio-8181-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+15:08:31.650 [http-nio-8181-exec-1] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
