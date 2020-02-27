@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.theo</groupId>
     <artifactId>springboot-demo</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>springboot-demo</name>
     <description>Demo project for Spring Boot</description>
 
@@ -19,7 +19,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/FranYan/base-demo.git</developerConnection>
-      <tag>springboot-demo-1.0.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <dependencies>
